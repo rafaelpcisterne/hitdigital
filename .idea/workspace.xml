@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eaef4ec-1e4c-42ff-9e04-9a4f7d27cbd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer_2.phar" interpreterId="44445359-1f50-4b0b-8050-724ffdecc721" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-client" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-facebook" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-google" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/optimizer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/cropper" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/paginator" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/uploader" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/rosell-dk/webp-convert" />
+      <path value="$PROJECT_DIR$/vendor/rosell-dk/image-mime-type-guesser" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iqRzcniV2OBdk9wKBVqKJeKvXM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/web/widgets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hit\themes\web\widgets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eaef4ec-1e4c-42ff-9e04-9a4f7d27cbd3" name="Default Changelist" comment="" />
+      <created>1602633398429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602633398429</updated>
+      <workItem from="1602633399460" duration="1740000" />
+      <workItem from="1602683781431" duration="1680000" />
+      <workItem from="1602685752685" duration="16316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1082" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1602700568412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1082" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602700568412" />
+    <state x="793" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602694201120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602694201120" />
+    <state x="1007" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602697542646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1007" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602697542646" />
+    <state x="994" y="403" width="469" height="258" key="ComposerInitDialogKey" timestamp="1602633655925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="994" y="403" width="469" height="258" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1602633655925" />
+    <state x="1086" y="247" key="NewPhpClassDialog" timestamp="1602695135212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="247" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602695135212" />
+    <state x="729" y="165" key="SettingsEditor" timestamp="1602684513079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602684513079" />
+    <state x="933" y="231" width="591" height="578" key="find.popup" timestamp="1602701316784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="933" y="231" width="591" height="578" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602701316784" />
+    <state x="940" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1602689864859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="940" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602689864859" />
+  </component>
+</project>
